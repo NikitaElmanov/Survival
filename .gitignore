@@ -75,6 +75,7 @@ Build/**/*.ico
 # Compiled source files for the engine to use
 Intermediate/*
 Plugins/*/Intermediate/*
+Survival/Saved/Cooked/**
 
 # Cache files for the editor to use
 DerivedDataCache/*
