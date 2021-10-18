@@ -314,6 +314,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9764E3011D5F4472F5095EEA14B3DA6D6067BD44",
+			"Assets": [
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "E9F8E0A3FEC8012C4E8A5FA110A2F0EA1B13B669",
 			"Assets": [
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/NPC/Citizen/Citizen_02/texturesAndMaterials/ponytail01.uasset"
@@ -329,12 +335,6 @@
 			"ShaderMapHash": "94CB72591BFB1AA0F8993301571CBEC81649DBD4",
 			"Assets": [
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Materials/M_Metal_Steel.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "9764E3011D5F4472F5095EEA14B3DA6D6067BD44",
-			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
 			]
 		},
 		{
@@ -414,12 +414,6 @@
 			"ShaderMapHash": "CF1BCBE44C368992DEDFCAE664B0CECCA594BBE3",
 			"Assets": [
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/UI/Materials/M_EquipMan.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A117C7B87E28982B2B7748403CF78CB2A469DB47",
-			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Materials/M_Wood_Pine.uasset"
 			]
 		},
 		{
@@ -523,6 +517,12 @@
 			"ShaderMapHash": "BDE733D4C48705524848E0FC78DA95D2A7F58691",
 			"Assets": [
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Props/Materials/M_Bush.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A117C7B87E28982B2B7748403CF78CB2A469DB47",
+			"Assets": [
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Materials/M_Wood_Pine.uasset"
 			]
 		},
 		{
