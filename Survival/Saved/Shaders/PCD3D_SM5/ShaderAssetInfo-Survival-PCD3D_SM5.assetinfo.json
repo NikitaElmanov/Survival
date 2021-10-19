@@ -225,23 +225,11 @@
 		{
 			"ShaderMapHash": "36E90DAC00DE7BCAEC4B5EF4A3C7A164A1802CFB",
 			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Axe/axe1.uasset",
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Barrel/barrelMap.uasset",
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Axe/axe1.uasset",
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Box/Cover/cover1.uasset",
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Box/BoxBottom/Material.uasset",
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Table/Material_001.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "FD2325E266AE8FA725B570B13BA1ADA3CF25BCDD",
-			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Materials/M_Basic_Wall.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "7DC9AD995DCE9E9E177A42D050307C57A502C753",
-			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Items/Weapons/Gun/FPWeapon/Materials/M_FPGun.uasset"
 			]
 		},
 		{
@@ -263,54 +251,72 @@
 			"Assets": [
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/SurvivalCharacter/textures_materials/shoes06.uasset",
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/SurvivalCharacter/textures_materials/high-poly_005.uasset",
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/NPC/Citizen/Citizen_01/texturesAndMaterials/high-poly.uasset",
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/NPC/Citizen/Citizen_02/texturesAndMaterials/shoes05.uasset",
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/NPC/Citizen/Citizen_02/texturesAndMaterials/high-poly_001.uasset"
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/NPC/Citizen/Citizen_02/texturesAndMaterials/high-poly_001.uasset",
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/NPC/Citizen/Citizen_01/texturesAndMaterials/high-poly.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "63A3BB54C66FE050D5E5D957FBFC527C1AE2EEF1",
 			"Assets": [
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/SurvivalCharacter/textures_materials/male_casualsuit06.uasset",
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/NPC/Citizen/Citizen_01/texturesAndMaterials/male_worksuit01.uasset",
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/NPC/Citizen/Citizen_02/texturesAndMaterials/male_casualsuit05.uasset"
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/NPC/Citizen/Citizen_02/texturesAndMaterials/male_casualsuit05.uasset",
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/NPC/Citizen/Citizen_01/texturesAndMaterials/male_worksuit01.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
+			"ShaderMapHash": "FD2325E266AE8FA725B570B13BA1ADA3CF25BCDD",
 			"Assets": [
-				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Materials/M_Basic_Wall.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "BC284EE8C793349B8654BD175C1C54EBFB2E35E5",
+			"ShaderMapHash": "7DC9AD995DCE9E9E177A42D050307C57A502C753",
 			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Props/Materials/M_Rock.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "144A31B2ED4A46BFCF1A91D62D292DE6CE7094D4",
-			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/UI/Materials/Clothes/Materials/M_ManiquienClothes.uasset"
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Items/Weapons/Gun/FPWeapon/Materials/M_FPGun.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "5955D31DA1D64305C4B656F257539CF680F15414",
 			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/NPC/stuff/Character/Mannequin/FirstPerson/Character/Materials/M_UE4Man_Body.uasset",
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/NPC/stuff/Character/Mannequin/Character/Materials/M_Male_Body.uasset"
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/NPC/stuff/Character/Mannequin/Character/Materials/M_Male_Body.uasset",
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/NPC/stuff/Character/Mannequin/FirstPerson/Character/Materials/M_UE4Man_Body.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "9764E3011D5F4472F5095EEA14B3DA6D6067BD44",
+			"ShaderMapHash": "29D5E5A9772118A7A5A75131FCB983C30171715F",
 			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/NPC/stuff/Character/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A71605C6468C1EF51E9CC59E394FBC252D426472",
+			"Assets": [
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Vehicle/Sedan/Materials/M_Vehicle_Sedan.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "958686EA653222E044339C342F9E2F2A1F7DEDEF",
+			"Assets": [
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Vehicle/Sedan/Materials/M_Vehicle_Sedan_Inst_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FB2D21D70E35E4BEE0A80F9ABD2AA162C2725DC8",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
 			"Assets": [
 				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9764E3011D5F4472F5095EEA14B3DA6D6067BD44",
+			"Assets": [
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
 			]
 		},
 		{
@@ -344,28 +350,16 @@
 			]
 		},
 		{
+			"ShaderMapHash": "144A31B2ED4A46BFCF1A91D62D292DE6CE7094D4",
+			"Assets": [
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/UI/Materials/Clothes/Materials/M_ManiquienClothes.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "B36B76B6E9DF402BDD476A3983430ACDD35C6E64",
 			"Assets": [
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/NPC/Aggressive/RangeAggressive/materialsAndTextures/Ch18_Body.uasset",
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/NPC/Aggressive/Zombie/Materials/Ch10_body1.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A71605C6468C1EF51E9CC59E394FBC252D426472",
-			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Vehicle/Sedan/Materials/M_Vehicle_Sedan.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "958686EA653222E044339C342F9E2F2A1F7DEDEF",
-			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Vehicle/Sedan/Materials/M_Vehicle_Sedan_Inst_Glass.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "FB2D21D70E35E4BEE0A80F9ABD2AA162C2725DC8",
-			"Assets": [
-				"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset"
 			]
 		},
 		{
@@ -375,21 +369,27 @@
 			]
 		},
 		{
-			"ShaderMapHash": "29D5E5A9772118A7A5A75131FCB983C30171715F",
+			"ShaderMapHash": "BC284EE8C793349B8654BD175C1C54EBFB2E35E5",
 			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Character/NPC/stuff/Character/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset"
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Props/Materials/M_Rock.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "2CAFFEE9FFE336010692E8FA7C6A5EAB01C3EEA4",
+			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
 			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/UI/MainMenu/M_MainMenu.uasset"
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "C7300C6CB4C2CC0372800DF4B660B45296570939",
 			"Assets": [
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/UI/Materials/M_Crosshair.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2CAFFEE9FFE336010692E8FA7C6A5EAB01C3EEA4",
+			"Assets": [
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/UI/MainMenu/M_MainMenu.uasset"
 			]
 		},
 		{
@@ -417,88 +417,22 @@
 			]
 		},
 		{
-			"ShaderMapHash": "4D23C83CB46C17EFF11C12719F016869F6FC3EBA",
+			"ShaderMapHash": "A117C7B87E28982B2B7748403CF78CB2A469DB47",
 			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Trees/Birch/birch_leaves.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "39B79D94CD3679BDFFFA3D840701FFD44630EC9D",
-			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Trees/Birch/birch_bark.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "E6B369B1144C8080EEC42E68AEEB23FBBBF406EE",
-			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Trees/small_maple_tree/small_maple_tree_mat.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "82794141DD35AC0F0AA98032AF1A9DAF7A1057CD",
-			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Trees/small_maple_tree/bark.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "BDE733D4C48705524848E0FC78DA95D2A7F58691",
-			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Props/Materials/M_Bush.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "784BFC66F2209C947230786996BE4EB0BC35A305",
-			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Pickaxe/Pickaxe_M.uasset"
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Materials/M_Wood_Pine.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "62E4BDFC5A9EA0213436306B87B8BC6C4C14F371",
 			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/House/wood.uasset",
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Trees/fir-tree/3DPaz_fir-tree_trunk.uasset",
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Trees/lieves-tree/conifer_macedonian_pine_Leaf_Mat.uasset",
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Trees/lieves-tree/Cap_Branch_Mat.uasset",
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Trees/lieves-tree/Bark_Branch_Mat.uasset",
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Trees/fir-tree/3DPaz_fir-tree_trunk.uasset",
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/House/wood.uasset",
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/House/walls.uasset",
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/House/roof.uasset",
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/House/floor.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "73DE14F49EA18ECDDD3ED076EC0AF95BF1DD4266",
-			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Materials/Items/HintLight/HintLight_M.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "B1FF22F5E1FAD19015D89ABEE71BB2A53ABE0F22",
-			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "C6EE3A5B64FD21DC25A8CC2FBC93F00486A9A291",
-			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A26EB19066B55C757555A93C8FC22987E3D4E3E9",
-			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "61BBF9C3CCF2DEED2C22A351ECDFF8698F93F8C0",
-			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A117C7B87E28982B2B7748403CF78CB2A469DB47",
-			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Materials/M_Wood_Pine.uasset"
 			]
 		},
 		{
@@ -544,9 +478,75 @@
 			]
 		},
 		{
+			"ShaderMapHash": "784BFC66F2209C947230786996BE4EB0BC35A305",
+			"Assets": [
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Pickaxe/Pickaxe_M.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "C4E565066FF74968AFBA9FAEFE3F015C5A8AD12F",
 			"Assets": [
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/AidKit/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "73DE14F49EA18ECDDD3ED076EC0AF95BF1DD4266",
+			"Assets": [
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Materials/Items/HintLight/HintLight_M.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E6B369B1144C8080EEC42E68AEEB23FBBBF406EE",
+			"Assets": [
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Trees/small_maple_tree/small_maple_tree_mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "82794141DD35AC0F0AA98032AF1A9DAF7A1057CD",
+			"Assets": [
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Trees/small_maple_tree/bark.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4D23C83CB46C17EFF11C12719F016869F6FC3EBA",
+			"Assets": [
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Trees/Birch/birch_leaves.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "39B79D94CD3679BDFFFA3D840701FFD44630EC9D",
+			"Assets": [
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Trees/Birch/birch_bark.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BDE733D4C48705524848E0FC78DA95D2A7F58691",
+			"Assets": [
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Props/Materials/M_Bush.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B1FF22F5E1FAD19015D89ABEE71BB2A53ABE0F22",
+			"Assets": [
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6EE3A5B64FD21DC25A8CC2FBC93F00486A9A291",
+			"Assets": [
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A26EB19066B55C757555A93C8FC22987E3D4E3E9",
+			"Assets": [
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "61BBF9C3CCF2DEED2C22A351ECDFF8698F93F8C0",
+			"Assets": [
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
 			]
 		},
 		{
