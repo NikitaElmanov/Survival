@@ -448,15 +448,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "069DA7ED39711231631647D86DD3348F8CC09F18",
-			"Assets": [
-				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Bushes/small_maple_bush/small_mapple_bush_bark.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "DA0C378471D9016DDECF55824C5E7462016B5F41",
 			"Assets": [
 				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Bushes/small_maple_bush/small_mapple_bush_leaf.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "069DA7ED39711231631647D86DD3348F8CC09F18",
+			"Assets": [
+				"../../../../../../Users/79997/Unreal Engine/Projects/SurvivalRepo/Survival/Survival/Content/Assets/Models/Bushes/small_maple_bush/small_mapple_bush_bark.uasset"
 			]
 		},
 		{
